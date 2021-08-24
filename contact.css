@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
+.touch li , .touch h1{
+    color: white;
+    margin: 5px 0px;
+}
+.touch li{
+    list-style: none;
+    font-size: medium;
+    font-family: 'Open Sans', sans-serif;
+}
+.eapps-link , .eapps-remove-link{ 
+    opacity: 0 !important;
+    width: 0px !important;
+    display: none !important;
+    overflow: hidden !important;
+    max-width: 0px !important;
+    background: none !important;
+    background-color: transparent !important;
+}
+.eapps-form{
+    max-width: 60% !important;
+}
